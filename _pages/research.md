@@ -1,4 +1,4 @@
----
+![图片](https://github.com/user-attachments/assets/7ddf2767-df7d-4138-9061-f861c46b7fbe)![图片](https://github.com/user-attachments/assets/8c1c6b3f-ca6e-4ac8-b2b3-f5334e5a5436)---
 layout: archive
 title: "Research"
 permalink: /research/
@@ -55,12 +55,13 @@ Research projects
 |                |                  |                 |                     |              |
 
 
+
+
 Research topic
 ======
 
 RE Regulation comparative study between CN, KR and JP 
 ---
-
 Problem: regulations hinder renewable energy installation
   * with Korea Environment Institute (KR), Mitsubishi Research Institute (JP)
   * \<International Comparative Study of Renewable Energy for the Transition to Sustainable Energy\> (2024.05.01.~2025.4.30.)
@@ -68,8 +69,34 @@ Problem: regulations hinder renewable energy installation
   * RM: Crystalize issues (2024. Jul.-Sep.) → Policy research → Comparative Studies → Run a forum (2025.Jan.-Feb.)
 
 
+Offshore wind farm in CN/HK and US
+---
+Problem: regulations/conflicts/planning in offshore wind farms
+  * Huge Projects, 3+ years
+  * Phase1: Rooting research in the field
+    * Fujian Province, China
+    * Local context, Interviews, Case studies
+    * EARTH, OCEAN AND ATMOSPHERIC SCIENCES (EOAS), HKUST (GZ)
+  * Phase2: HKUST(GZ)-only research  
+    * Marine infrastructure governance (w. Jeju national university, SK)
+    * S&T solutions (incl. AI), Longitudinal studies, LCA, national survey, etc.
+  * Phase3: Globally competing research
+    * Literature Review; build an online archive for global OFW market 
+    * Boston University, Univ. of Delaware, Univ. of Rhode Island (US)
+      
+      
+Coal Powerplant challenges in CN, KR, Asian countries and DE
+---
+Problem: labor/land issues due to phasing-out coal
+  * Issues are highly embedded in the context, so need to develop
+  * Phase1: Korean case (ongoing)
+    * Labor issue
+    * Land recovery issue
+  * Phase2: Global comparison
+    * Find accessible case around here
+    * Just transition: with Martin-Luther-Universität Halle-Wittenberg (DE)
 
-  
+
 Skills
 ======
 * Skill 1
