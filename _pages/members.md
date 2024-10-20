@@ -11,7 +11,7 @@ redirect_from:
 
 <table>
   <tr>
-    <td>
+    <td style="vertical-align: top;">
 
 # PhD (Jing YU)
 
@@ -24,7 +24,7 @@ redirect_from:
 - Climate policy
 
     </td>
-    <td>
+    <td style="vertical-align: top; padding-left: 20px;">
 
 ## Education
 
