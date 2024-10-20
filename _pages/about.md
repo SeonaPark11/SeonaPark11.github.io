@@ -1,4 +1,4 @@
----
+![图片](https://github.com/user-attachments/assets/5fc5cc01-0acc-43aa-8286-513cb49acb40)![图片](https://github.com/user-attachments/assets/04907b7d-350f-41e5-8eed-541c77bbc306)---
 permalink: /
 title: "Welcome to Professor Seona Park’s lab web"
 author_profile: true
@@ -16,6 +16,22 @@ Education
 - M.A., City Planning, Seoul National University
 - B.A., Economics, Seoul National University
 
+Research Interests
+======
+- Energy Justice and Energy Policy
+- Just Transition
+- Social Impact of Renewable Energy Facilities
+- Carbon Lock-in
+- Place Attachment
+- Collaborative Planning
+
+Teaching Interests
+======
+- Climate Change
+- Sustainability
+- Local Environmental Policy
+- Qualitative Research 
+- Methods Research Design
 
 Potential research projects
 ======
