@@ -55,12 +55,17 @@ Research projects
 |                |                  |                 |                     |              |
 
 
-Work experience
+Research topic
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+
+RE Regulation comparative study between CN, KR and JP 
+---
+
+Problem: regulations hinder renewable energy installation
+  * with Korea Environment Institute (KR), Mitsubishi Research Institute (JP)
+  * <International Comparative Study of Renewable Energy for the Transition to Sustainable Energy> (2024.05.01.~2025.4.30.)
+  * RQ: How to reform regulation to enhance renewable energy
+  * RM: Crystalize issues (2024. Jul.-Sep.)  Policy research  Comparative Studies  Run a forum (2025.Jan.-Feb.)
 
 * Fall 2015: Research Assistant
   * Github University
