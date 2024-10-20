@@ -1,4 +1,4 @@
-![图片](https://github.com/user-attachments/assets/7ddf2767-df7d-4138-9061-f861c46b7fbe)![图片](https://github.com/user-attachments/assets/8c1c6b3f-ca6e-4ac8-b2b3-f5334e5a5436)---
+---
 layout: archive
 title: "Research"
 permalink: /research/
