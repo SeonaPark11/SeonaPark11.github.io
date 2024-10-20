@@ -10,75 +10,63 @@ redirect_from:
 {% include base_path %}
 
 
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-    <meta charset="UTF-8">
-    <title>PhD (Jing YU)</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            display: flex;
-            flex-direction: row;
-            margin: 20px;
-        }
-        .left-column {
-            width: 40%;
-            margin-right: 5%;
-        }
-        .right-column {
-            width: 55%;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-        }
-        h1, h2 {
-            margin-top: 0;
-        }
-        ul {
-            padding-left: 20px;
-        }
-    </style>
-</head>
-<body>
+{% include base_path %}
 
-<div class="left-column">
-    <h1>PhD (Jing YU)</h1>
-    <img src="photo2.png" alt="Jing YU photo">
-    <h2>Research Interests:</h2>
-    <ul>
-        <li>Offshore wind power</li>
-        <li>Marine ecosystem</li>
-        <li>Climate policy</li>
-    </ul>
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <div style="display: flex; flex-wrap: wrap;">
+      <!-- 左侧内容 -->
+      <div style="flex: 1; min-width: 300px; margin-right: 20px;">
+        <h1 itemprop="headline">PhD (Jing YU)</h1>
+        <img src="{{ '/images/photo.jpg' | relative_url }}" alt="Jing YU photo" style="max-width: 100%; height: auto;">
+<!-- 
+        <img src="photo.jpg" alt="Jing YU photo" style="max-width: 100%; height: auto;"> -->
+        <h2>Research Interests:</h2>
+        <ul>
+          <li>Offshore wind power</li>
+          <li>Marine ecosystem</li>
+          <li>Climate Policy</li>
+        </ul>
+      </div>
+      <!-- 右侧内容 -->
+      <div style="flex: 1; min-width: 300px;">
+        <h2>Education</h2>
+        <ul>
+          <li><strong>MPhil</strong>, IPE, HKUST-GZ, 2024</li>
+          <li><strong>MA</strong>, Applied Linguistics, University of Oregon, 2020</li>
+          <li><strong>BA</strong>, Linguistics, University of Oregon, 2019</li>
+        </ul>
+
+        <h2>Research Experience</h2>
+        <ul>
+          <li>Red Bird MPhil research on LCA-related subjects</li>
+          <li>Field studies in water sampling and testing with EOAS</li>
+          <li>Human subject experiments in sociolinguistics</li>
+        </ul>
+
+        <h2>Awards</h2>
+        <ul>
+          <li>2023 Tencent Fund "Tech for Good Fund" awardee</li>
+          <li>2023 Guangzhou Women‘s Federation “Her” Welfare Fund awardee</li>
+        </ul>
+
+        <h2>Email</h2>
+        <p><a href="mailto:jyu336@connect.hkust-gz.edu.cn">jyu336@connect.hkust-gz.edu.cn</a></p>
+      </div>
+    </div>
+  </article>
 </div>
 
-<div class="right-column">
-    <h2>Education</h2>
-    <ul>
-        <li><strong>MPhil</strong>, IPE, HKUST-GZ, 2024</li>
-        <li><strong>MA</strong>, Applied Linguistics, University of Oregon, 2020</li>
-        <li><strong>BA</strong>, Linguistics, University of Oregon, 2019</li>
-    </ul>
-
-    <h2>Research Experience</h2>
-    <ul>
-        <li>Red Bird MPhil research on LCA-related subjects</li>
-        <li>Field studies in water sampling and testing with EOAS</li>
-        <li>Human subject experiments in sociolinguistics</li>
-    </ul>
-
-    <h2>Awards</h2>
-    <ul>
-        <li>2023 Tencent "Tech for Good Fund" awardee</li>
-        <li>2023 Guangzhou Women’s Federation “Her” Welfare Fund awardee</li>
-    </ul>
-
-    <h2>Email</h2>
-    <p><a href="mailto:jyu336@connect.hkust-gz.edu.cn">jyu336@connect.hkust-gz.edu.cn</a></p>
-</div>
-
-</body>
-</html>
 
