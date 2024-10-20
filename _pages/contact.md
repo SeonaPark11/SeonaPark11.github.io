@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 <p align="center"> 
-     <img src="../images/research-field.jpg" width="650"> 
+     <img src="../images/4.png" width="650"> 
 </p>
