@@ -1,4 +1,4 @@
-![图片](https://github.com/user-attachments/assets/5fc5cc01-0acc-43aa-8286-513cb49acb40)![图片](https://github.com/user-attachments/assets/04907b7d-350f-41e5-8eed-541c77bbc306)---
+---
 permalink: /
 title: "Welcome to Professor Seona Park’s lab web"
 author_profile: true
@@ -41,3 +41,27 @@ Potential research projects
 4. ESG: corporate, rating, performance, institutions, perception
 5. Climate Justice: Theoretical issues, social movement
 6. Rural area: Agricultural practice, immigrants
+
+Course Introduction
+======
+For PhD/Mphil:
+
+For MS/US:
+
+Climate Change
+------
+: science and governance (previously taught by prof. Ye QI….)
+
+CNCC seminar
+------
+: theoretical issues in climate change (technology, spatial scale, (de)growth, perspectivism, Anthropocene (neo-materialism), responsibilities between countries, non-human, global competition/cooperation, just transition, environmental justice, monetizing carbon… )
+: read and criticize articles, to write articles
+
+Research Methodology incorporating Qualitative approach
+------
+
+
+
+
+
+
