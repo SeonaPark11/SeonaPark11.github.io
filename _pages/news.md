@@ -12,10 +12,10 @@ Seona Park’s team currently seeking highly motivated postgraduate students (Ph
 
 
 # PhD/RA Recruitment Criteria:
- - √ Qualified applicants should have: Master’s degree in HSS, Engineering, Public Policy, or any relevant discipline
- - √ Clear career goal in climate action
- - √ English writing sample, preferably peer-reviewed
- - √ Working experience in a team
+- √ Qualified applicants should have: Master’s degree in HSS, Engineering, Public Policy, or any relevant discipline
+- √ Clear career goal in climate action
+- √ English writing sample, preferably peer-reviewed
+- √ Working experience in a team
 
 
 
