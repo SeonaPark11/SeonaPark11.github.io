@@ -1,3 +1,4 @@
+---
 permalink: /
 title: "Welcome to Professor Seona Park’s lab web"
 author_profile: true
