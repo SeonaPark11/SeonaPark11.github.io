@@ -54,6 +54,7 @@ Climate Change
 
 CNCC seminar
 ------
+
 : theoretical issues in climate change (technology, spatial scale, (de)growth, perspectivism, Anthropocene (neo-materialism), responsibilities between countries, non-human, global competition/cooperation, just transition, environmental justice, monetizing carbon… )
 : read and criticize articles, to write articles
 
