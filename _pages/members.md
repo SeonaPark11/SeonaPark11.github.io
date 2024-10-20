@@ -14,8 +14,7 @@ redirect_from:
 **_Ph.D. students_**
 
 - **Jing Yu**, MPhil from HKUST-GZ.\\
-  Research fields: Red Bird MPhil research experience on LCA related subjects, Field studies in water sampling and testing with EOAS, Human subject experiment in sociolinguistics
-.
+  Research fields: Offshore wind power, marine ecosystem and Climate Policy
 - **[Shuai Zhang](https://www.researchgate.net/profile/Shuai-Zhang-194/research)** (from Sep. 2024), MSc from Sun Yat-sen University.\\
   Research fields: Point cloud processing and foundation model.
 - **[Liang Zeng (PhD student @KULeuven, co-supervisor)](https://iiw.kuleuven.be/onderzoek/geomatics/people/00159796)** (since Oct. 2022), MSc from TU Delft.\\
@@ -38,9 +37,9 @@ redirect_from:
 
 **_Research Assistant_**
 
-- **Daxu Wei** (since Jun. 2024), MSc from Bartlett School of
-  Architecture, University College London.\\
-  Research fields: Urban design, generative AI, spatial analysis.
+- **Zhuotao LU**, MSc from The Hong Kong Polytechnic University\\
+  Research fields: ESG and Sustainability, Carbon Trading and Carbon Markets, Climate Change Economics and Sociology
+
 - **[Yunlei Su](https://suyunlei.github.io/homepage/)** (since Jul. 2024), MSc from National University of Singapore. Pre Front-end Engineer at CSCI.\\
   Research fields: WebGIS, Urban Digital Twins, 3D visualization, spatial analysis.
 - **Guanyu Hou** (since Jun. 2024), MSc from Chinese Academy of Sciences.\\
