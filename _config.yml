@@ -24,9 +24,9 @@ author:
   avatar           : "image1.png"
   name             : "Seona Park"
   pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
+  bio              : "Professor at Hong Kong University of Science and Technology (Guangzhou)"
   location         : # "Earth"
-  employer         : "Hong Kong University of Science and Technology (Guangzhou)"
+  employer         : # "Hong Kong University of Science and Technology (Guangzhou)"
   uri              : # URL
   email            : "seonapark@hkust-gz.edu.cn" 
 
