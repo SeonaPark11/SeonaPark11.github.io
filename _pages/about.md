@@ -1,4 +1,4 @@
----
+![图片](https://github.com/user-attachments/assets/ccf04a65-ec53-4aba-a6e7-430e1beb9250)---
 permalink: /
 title: "Welcome to Professor Seona Park’s lab web"
 author_profile: true
@@ -9,6 +9,13 @@ redirect_from:
 
 This is the official website of Professor Seona park’s lab team at the Hong Kong University of Science and Technology (Guangzhou).
 Our goal is to become a growing community together.
+
+Education
+======
+- Ph.D., City Planning, Seoul National University
+- M.A., City Planning, Seoul National University
+- B.A., Economics, Seoul National University
+
 
 Potential research projects
 ======
