@@ -1,4 +1,3 @@
-![图片](https://github.com/user-attachments/assets/ccf04a65-ec53-4aba-a6e7-430e1beb9250)---
 permalink: /
 title: "Welcome to Professor Seona Park’s lab web"
 author_profile: true
