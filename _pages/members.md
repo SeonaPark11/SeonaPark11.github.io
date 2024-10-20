@@ -9,11 +9,48 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<table>
+  <tr>
+    <td>
+
+# PhD (Jing YU)
+
+![Jing YU photo](photo.jpg)
+
+## Research Interests:
+
+- Offshore wind power
+- Marine ecosystem
+- Climate policy
+
+    </td>
+    <td>
+
+## Education
+
+- **MPhil**, IPE, HKUST-GZ, 2024
+- **MA**, Applied Linguistics, University of Oregon, 2020
+- **BA**, Linguistics, University of Oregon, 2019
+
+## Research Experience
+
+- Red Bird MPhil research on LCA-related subjects
+- Field studies in water sampling and testing with EOAS
+- Human subject experiments in sociolinguistics
+
+## Awards
+
+- 2023 Tencent "Tech for Good Fund" awardee
+- 2023 Guangzhou Women’s Federation “Her” Welfare Fund awardee
+
+## Email
+
+[jyu336@connect.hkust-gz.edu.cn](mailto:jyu336@connect.hkust-gz.edu.cn)
+
+    </td>
+  </tr>
+</table>
+
 
 Work experience
 ======
